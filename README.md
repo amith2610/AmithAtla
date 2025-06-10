@@ -78,7 +78,5 @@ yarn build
 MIT License - feel free to use this template for your own portfolio!
 
 ## Acknowledgments
-
-- Inspired by [Hruday Tej's Portfolio](https://hruday-tej.github.io/)
 - Built with [React](https://reactjs.org/)
 - Styled with [Material-UI](https://mui.com/) 
